@@ -48,7 +48,9 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         </config-file>
 
         <source-file src="src/android/FirebaseDynamicLinksPlugin.java" target-dir="src/aliendb/cordova/firebase" />
-
+        <source-file src="src/android/CordovaMethod.java" target-dir="src/aliendb/cordova/firebase" />
+        <source-file src="src/android/ReflectiveCordovaPlugin.java" target-dir="src/aliendb/cordova/firebase" />
+               
         <dependency id="cordova-support-android-plugin" version="~1.0.0"/>
         <dependency id="cordova-support-google-services" version="~1.2.0"/>
 
