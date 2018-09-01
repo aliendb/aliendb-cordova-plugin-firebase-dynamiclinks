@@ -11,6 +11,12 @@ https://github.com/chemerisuk/cordova-plugin-firebase-dynamiclinks
 
 
 ---------------------
+---------------------
+---------------------
+---------------------
+---------------------
+---------------------
+---------------------
 
 
 # cordova-plugin-firebase-dynamiclinks<br>[![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
