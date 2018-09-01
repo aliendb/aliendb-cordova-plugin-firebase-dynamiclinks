@@ -3,7 +3,7 @@
  
 ## Installation
 
-    cordova plugin add cordova-plugin-firebase-dynamiclinks --save --variable APP_DOMAIN="example.com" --variable PAGE_LINK_DOMAIN="example.page.link"
+    cordova plugin add aliendb-cordova-plugin-firebase-dynamiclinks --save --variable APP_DOMAIN="example.com" --variable PAGE_LINK_DOMAIN="example.page.link"
 
 Use variable `APP_DOMAIN` specify web URL where your app will start an activity to handle the link.
 
