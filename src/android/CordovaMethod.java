@@ -1,6 +1,6 @@
 package aliendb.cordova.firebase;
 
-import aliendb.cordova.firebase.ReflectiveCordovaPlugin.ExecutionThread;
+import ReflectiveCordovaPlugin.ExecutionThread;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
