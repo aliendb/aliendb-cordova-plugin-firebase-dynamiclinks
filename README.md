@@ -3,7 +3,7 @@
 
 
 
-NB: this repo is for testing only.. looking for this project, then use the author's repository at
+NB: this repository is for testing only.. looking for this project, then use the author's repository at
 https://github.com/chemerisuk/cordova-plugin-firebase-dynamiclinks
 
 
