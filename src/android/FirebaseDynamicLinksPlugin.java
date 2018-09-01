@@ -2,8 +2,8 @@ package aliendb.cordova.firebase;
 
 import android.content.Intent;
 
-import aliendb.cordova.firebase.CordovaMethod;
-import aliendb.cordova.firebase.ReflectiveCordovaPlugin;
+import CordovaMethod;
+import ReflectiveCordovaPlugin;
 
 import com.google.android.gms.tasks.Continuation;
 import com.google.android.gms.tasks.Task;
