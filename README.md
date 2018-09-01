@@ -1,3 +1,18 @@
+
+
+
+
+
+NB: this repo is for testing only.. looking for this project, then use the author's repository at
+https://github.com/chemerisuk/cordova-plugin-firebase-dynamiclinks
+
+
+
+
+
+---------------------
+
+
 # cordova-plugin-firebase-dynamiclinks<br>[![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 > Cordova plugin for [Firebase Dynamic Links](https://firebase.google.com/docs/dynamic-links/)
  
