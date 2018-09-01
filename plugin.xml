@@ -1,6 +1,6 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 xmlns:android="http://schemas.android.com/apk/res/android"
-           id="aliendb-cordova-plugin-firebase-dynamiclinks"
+           id="cordova-plugin-firebase-dynamiclinks"
       version="1.0.0">
 
     <name>AlienDB-FirebaseDynamicLinksPlugin</name>
@@ -50,7 +50,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <source-file src="src/android/FirebaseDynamicLinksPlugin.java" target-dir="src/aliendb/cordova/firebase" />
 
         <dependency id="cordova-support-android-plugin" version="~1.0.0"/>
-        <dependency id="cordova-support-google-services" version="~1.1.0"/>
+        <dependency id="cordova-support-google-services" version="~1.2.0"/>
 
         <framework src="com.google.firebase:firebase-dynamic-links:$FIREBASE_DYNAMIC_LINKS_VERSION" />
     </platform>
